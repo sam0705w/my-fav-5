@@ -1,0 +1,56 @@
+<!doctypehtml>
+<html>
+<head>
+<title>Personal Webpage</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+    <body>
+       <ul class="nu">
+        <li class="su">"><a href="#wel">Home</li>
+            <li class="su">"><a href="#vid">Videos</li>
+            <li class="su">"><a href="#cre">Creators</li>
+            <li class="su">"><a href="#pl">People</li>
+            <li class="su">"><a href="ft">facts</li>
+                <li class="su">"><a href="ct">Contact</li>
+        </ul>
+    <section id="welcome"><img src="download.jpg">
+        <h1>my favorite</h1>
+        <h2>Naruto</h2>
+        <h3>an anime japnesse series</h3>
+        </section>
+        <section id="bio">
+        <h1>naruto</h1>
+    <div>
+            <div class="line"></div>
+            <p>Naruto[a] is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. The story is told in two parts – the first set in Naruto's pre-teen years, and the second in his teens. The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997).
+  <br>
+    Naruto is the fourth best-selling manga series in history, selling 250 million copies worldwide in 46 countries, with 153 million of the sales in Japan alone and remaining 97 million copies elsewhere. It has become one of Viz Media's best-selling manga series; their English translations of the volumes have appeared on USA Today and The New York Times bestseller list several times, and the seventh volume won a Quill Award in 2006. Reviewers praised the manga's character development, strong storylines, and well-executed fight scenes, though some felt the fight scenes slowed the story down. Critics noted that the manga, which has a coming-of-age theme, makes use of cultural references from Japanese mythology and Confucianism.
+  </p> 
+            </div>
+        </section>
+         
+        <section id="vid">
+        <iframe width="1019" height="573" src="https://www.youtube.com/embed/4B9JU7t1czk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           <iframe width="1019" height="573" src="https://www.youtube.com/embed/ffQLw-3ghoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </section>
+        <section id="cre">
+        <iframe src="https://en.wikipedia.org/wiki/Masashi_Kishimoto" width="1015" height="573"></iframe>
+        </section>
+        <section id="pl">
+            <iframe src="https://en.wikipedia.org/wiki/Naruto#Characters" width="1015" height="573"></iframe>
+        </section>
+        <section id="ft">
+        <iframe width="1019" height="573" src="https://www.youtube.com/embed/lMyjX_RxNC4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </section>
+         <section id="cmg">
+    <h1>character</h1>
+      <a href="https://naruto.fandom.com/wiki/Sasuke_Uchiha"><img src="">Sasuke Uchiha</a>
+    </section>
+    <section id="ct">
+     <h1>Contact</h1>
+        <div class="line"></div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242039.77377501313!2d73.7646734863933!3d18.579832686103124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf2e67461101%3A0x828d43bf9d9ee343!2sPune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1615291027470!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <br><a href="mailto:sampash0705@gmail.com"><i class="fa fa-envelope"></i></i><span>mailto:sampash0705$gmail.com</span></a>
+            </section>
+    </body>
